@@ -20,3 +20,55 @@
 .App-link {
   color: #09d3ac;
 }
+
+.EmptyCell {
+  background: #fff;
+  border: 1px, solid, #999;
+  float: left;
+  line-height: 34px;
+  height: 34px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  width: 34px;
+}
+
+.WallCell {
+  background: #000;
+  border: 1px, solid, #999;
+  float: left;
+  line-height: 34px;
+  height: 34px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  width: 34px;
+}
+
+.EnemyCell {
+  background: #f00;
+  border: 1px, solid, #999;
+  float: left;
+  line-height: 34px;
+  height: 34px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  width: 34px;
+}
+
+.GoalCell {
+  background: #0f0;
+  border: 1px, solid, #999;
+  float: left;
+  line-height: 34px;
+  height: 34px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  width: 34px;
+}
+
+.row {
+  clear: left;
+}
